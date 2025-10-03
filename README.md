@@ -17,7 +17,7 @@ My very first project is to analyze basic personal and account info using only t
 
 ## Project Title
 
-*NFL Point Differential Ranking*
+*Basic Account Info*
 
 
 ## Description
